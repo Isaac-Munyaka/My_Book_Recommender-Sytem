@@ -8,18 +8,20 @@ the primary basis for perfoming Natural Language Processing, inorder to recommen
 I used the Csv (Comma Separated Values) form.
 
 ## Feature Engineering
-I) Data Vectorization
+
+### Data Vectorization
 
 Text data in the "new_book_df" dataframe is transformed into numerical vectors to make it suitable for mathematical
 operations.
 Techniques I used for vectorization are TF-IDF 
 (Term Frequency-Inverse Document Frequency) Vectorization
 
-### Term Frequency
+#### Term Frequency
+
 This will measure the frequency of terms (tokens/words). Words that appear frequently within single document but rare acrosss the corpus are assigned higher scores. 
 This will help to capture the uniqueness of terms 
 
-### IDF
+#### IDF
 IDF measures the importance of a term across a collection of documents (corpus). IDF has an inverse relationship with the number of documents containing the term. 
 If a term appears in many documents (high document frequency), its IDF value will be lower because it is considered less important for distinguishing documents. 
 The primary purpose of IDF is to identify terms that are discriminative or rare in the corpus, giving them higher weights.
