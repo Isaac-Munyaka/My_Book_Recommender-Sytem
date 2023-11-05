@@ -2,9 +2,10 @@
 
  ##  Data Understanding
 
-The Dataset used was from Kaggle,(https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset?select=Books+Data+with+Category+Language+and+Summary).
-Extracted in csv form and excel form (both in text form) and containing important information with regards to Book Summary and Category which were 
-the  basis for perfoming Natural Language Processing, inorder to recommend similar books,based on the Cosine Similarity. 
+The Dataset used was from Kaggle (https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset?select=Books+Data+with+Category+Language+and+Summary).
+Extracted in csv form and containing important information with regards to Book Summary and Category which were 
+the  basis for perfoming Natural Language Processing.
+The model went ahead to recommend similar books,based on the Cosine Similarity. 
 The Dataset contains 1,031,175 books. 
 
 
