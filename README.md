@@ -6,7 +6,7 @@ The Dataset used was from Kaggle (https://www.kaggle.com/datasets/ruchi798/bookc
 Extracted in csv form and containing important information with regards to Book Summary and Category which were 
 the  basis for perfoming Natural Language Processing.
 The model went ahead to recommend similar books,based on the Cosine Similarity. 
-The Dataset contains 1,031,175 books. 
+The Dataset contained 1,031,175 books. 
 
 
 ## Feature Engineering
