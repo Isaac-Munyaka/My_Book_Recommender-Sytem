@@ -47,4 +47,4 @@ they are orthogonal (no similarity).
 In the context of NLP, cosine similarity calculates how similar two text documents are based on their vector representations. 
 If the vectors point in a similar direction, they have a higher cosine similarity, indicating that the documents are more similar.
 
-### The model then goes ahead and recommends 5 similar books based on cosine similarity
+### The NLP model then goes ahead and recommends 5 similar books based on cosine similarity
