@@ -32,7 +32,7 @@ The primary purpose of IDF is to identify terms that are discriminative or rare 
 
 Since book data is high dimensional, It will be necessary for me to reduce the number of features to avoid computational complexities when getting the 
 cosine similarity.
-Important information will be preserved. Otherwise; attempting without reducing the number of documents will return "Memory Error"
+Important information will be preserved. 
 
  #### Latent Semantic Analysis
 LSA for analysing r/ship between words and undelying patterns of word co-occurence in the documents, while retrieving important information.
