@@ -21,7 +21,7 @@ Techniques I used for vectorization are TF-IDF
 #### Term Frequency
 
 This will measure the frequency of terms (tokens/words). Words that appear frequently within single document but rare acrosss the corpus are assigned higher scores. 
-This will help to capture the uniqueness of terms 
+This will help to capture the uniqueness of terms.
 
 #### IDF
 IDF measures the importance of a term across a collection of documents (corpus). IDF has an inverse relationship with the number of documents containing the term. 
